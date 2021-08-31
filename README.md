@@ -1,22 +1,19 @@
-- OOP preparation project 2021
-- 6 projects
-- Main topics - Arrays, Lists, Enumeration, Javafx, Collections, Applications. Multithreading
-- Array Syntax, List Syntax. Loops, lamda statements, exceptions
-- Event handling, inheritance, Classes, Object creation
+- OOP Exam preparation
+- Main Topics Arrays, Lists, Advanced classes and objects, exceptions, I/O
 
-/**** Arrays, Lists, Enumeration, Loops, Exception Handling, lamda statements
-******* Applications, Collections, Interface, Javaframe, Multithreading
+- @author Mc Larry & Chin
+TODO:
 
-*******************************************************************************************************************************************************************/
+- Knowing useful Syntax of Arrays, Lists 
+- Know Enumeration, Inheritance and Interfaces
+/**** Arrays and ArraysList*****/
 
+- Solve Exercise 1 to 5 using primitive definitions 
+- Resolve the exercises using the java collections
+- Simplify code using keywords
 
+/*********************************************************************************************************************************************************************/
 
-@ author Mc Larry and Chin
-/****************************/
-/** Hello World ****/
-/***** Java Programming is fun***/
+- Projects: 2 main java projects
 
-public class OOP{
-public static vovid main(String[] args){
-}
-}
+/******Additional Excercises to inhance the skills******/
