@@ -8,7 +8,7 @@ TODO:
 - Know Enumeration, Inheritance and Interfaces
 /**** Arrays and ArraysList*****/
 
-- Solve Exercise 1 to 5 using primitive definitions 
+- Solve Exercise 1 to 7 using primitive definitions 
 - Resolve the exercises using the java collections
 - Simplify code using keywords
 
